@@ -24,4 +24,6 @@ int main()
         }
     }
     cout<<"not found\n";
+    cout<<"Good Job";
+    cout<<"Thanks for visiting";
 }
