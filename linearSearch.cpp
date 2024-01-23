@@ -19,11 +19,12 @@ int main()
     {
         if (arr[j] == search)
         {
-            cout << "Search" << j << arr[j];
+            cout <<"The number "<<arr[j]<< " found at index " << j<<".";
+            cout<<"Thanks for visiting";
             return 0;
         }
     }
     cout<<"not found\n";
-    cout<<"Good Job";
+    cout<<"Good Job"<<endl;
     cout<<"Thanks for visiting";
 }
